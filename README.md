@@ -18,11 +18,11 @@ Apply statistical modeling and machine learning to predict survival probability 
 
 ## Summary of solution
   1 - Data Cleaning and Preprocessing:
-  NA imputation in Fare, Embarked and Age column
-2 - Feature Engineering:
-..Family and Individual Fare
-3 - Exploratory Data Analysis:
-..Plots to analyze correlation and dependencies
-4 - Modeling:
-.. Logistic, Random Forest and Gradient Boosting Machine
+    NA imputation in Fare, Embarked and Age column
+  2 - Feature Engineering:
+    Family and Individual Fare
+  3 - Exploratory Data Analysis:
+    Plots to analyze correlation and dependencies
+  4 - Modeling:
+    Logistic, Random Forest and Gradient Boosting Machine
 
