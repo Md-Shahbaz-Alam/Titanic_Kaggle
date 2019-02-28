@@ -17,12 +17,12 @@ From the competition [homepage](https://www.kaggle.com/c/titanic).
 Apply statistical modeling and machine learning to predict survival probability to gain hands-on experience and submit the results on Kaggle 
 
 ## Summary of solution
-  1 - Data Cleaning and Preprocessing:
+  1 - Data Cleaning and Preprocessing:  
       - NA imputation in Fare, Embarked and Age column
-  2 - Feature Engineering:
+  2 - Feature Engineering:  
       - Family and Individual Fare
   3 - Exploratory Data Analysis:  
       - Plots to analyze correlation and dependencies
-  4 - Modeling:
+  4 - Modeling:  
       - Logistic, Random Forest and Gradient Boosting Machine
 
